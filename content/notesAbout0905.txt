@@ -58,8 +58,7 @@ then ...
 To run a file : 
 
 #gcc -o stackoverflow stackoverflow.c 
-then stackoverflow ¿?  
-
+./namefile.c 
 
 para ver la 
 
