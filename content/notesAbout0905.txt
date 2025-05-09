@@ -1,0 +1,22 @@
+# code from hello. c 
+
+# $ ddd hello ¿? -> to acces form the terminal to DDD docker. 
+# $ ddd hello &
+
+
+# valgrind --tool=callgrind ./hello  (another tool to use a analyser)
+
+# to a call a file .\"file_name" ... why "uno,dos,tres?" 
+        Entrega información de depurable. 
+        Tengo acceso al ensabmlador. ( el que es una representaicon memonica del codigo binario )
+
+El depurador puede : encontrar los binarios de mi ejecutador y decirme en qué posiciones están 
+mis instrucciones con representación binaria. 
+
+--------------------------------
+El análisis estático UNICAMENTE se hace sobre el codigo fuente. 
+ 
+el analizador dinámico trabaja con el programa directamente 
+
+
+
