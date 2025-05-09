@@ -64,4 +64,37 @@ para ver la
 
 
 
+#nvim stackoverflow.c ¿'? what is this to use 
 
+NOW creating a PYTHON FIKE :. 
+
+nvim cosine.py 
+python3 cosine.py
+
+
+
+PYTHONMALLOC = malloc valgrind --tool = callgrind python3 cosine.py 
+
+
+kcachegrind ... ¿? (para ver el grafo de llamadas. (VER SI HAY PROFUNIDAD  O NO ,ESto implica que  las funciones en el codigo están INTRINCADAS.  " ))
+
+PYHON CALLGRPAH REVIEW LIBRARIES and installed on a VIRTUAL ENVIROMENT ...
+
+
+To create a virutal ENVIROMENT
+
+
+virtualenv pyCallGraph 
+
+pip install pyCallGraph ... numpy , mat... etc 
+
+AND Use graphviz --  ...  to visualize the code, this generates a png file and then WE CAN : 
+
+open pycallgraph.png ... to open the file on the folder ... ¿? 
+
+
+NEXT SESION :
+
+CREAR CALLGRAPH de estos dos codigos para visalizar y comparar. 
+
+CODIGO PARA MOSTRAR EL USO DE LA MEMORIA RAM en py Y C
