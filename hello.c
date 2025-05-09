@@ -3,10 +3,9 @@
 int main(int argc, char *argv[])
 {
     if (argc == 1)
-        printf("Se necesitan argumentos!\n\r"); // \n is a new line
-    else if (argc == 2)
-        printf("Hello, %s!\n", argv[1]); // \n is a new line
-    printf("Hello, World!\n\r"); // undesrtading the \n\r as a typewriter   
+        printf("there is need some args!\n\r"); // \n is a new line then \r is a carriage return 
+    else if (argc == ! or == argc[0]) 
+        printf("Hello, %s!\n", argv[1]); 
      return 0;
 }
 
